@@ -1,0 +1,2 @@
+big: Something that is large
+small: Something that is not large

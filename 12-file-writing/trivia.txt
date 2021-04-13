@@ -1,0 +1,6 @@
+Crocodiles do not have sweat glads? : true 
+The human heart has 6 chambers? : false
+A male horse is called a mare? :  false
+Aristotle is the father of biology? : true 
+The largest producer of wool is Australia? : true 
+The kidney is the muscular organ that pumps blood in the human body?: false
